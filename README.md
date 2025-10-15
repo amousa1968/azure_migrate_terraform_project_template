@@ -1,0 +1,2 @@
+# azure_migrate_terraform_project_template
+project template
